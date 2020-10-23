@@ -52,6 +52,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [更多记录](https://yanbo01haomiao.github.io/)
+➡️ [新主题尝试](https://zhangyuanes.github.io/)
+
+---
+
+头像icon画师[_grilledcrab_](https://twitter.com/_grilledcrab_)
 
 ---
 
