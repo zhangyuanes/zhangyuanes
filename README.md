@@ -4,8 +4,9 @@
 
 - 🔭 坐标广州华南理工大学。
 - 🌱 软件工程专业在读。
-- 🥅 2021 目标: offer顺利，学习新东西
-- ⚡ 其他: 动画电影爱好者，卡牌游戏爱好者，B站重度用户
+- 🥅 2021 目标: offer顺利，毕设顺利
+- ⚡ 其他: 动画电影爱好者，卡牌游戏爱好者，B站重度用户(ID:烟波01浩淼)
+- 与我联系：zhangyuanes@gmail.com
 
 <br />
 
@@ -34,7 +35,6 @@
 <!-- YOUTUBE:START -->
 - [【明日方舟MMD】【棘刺】疑心暗鬼](https://www.bilibili.com/video/BV1Ph411R7L9)
 - [【鬼灭之刃MMD】3倍炼狱杏寿郎的快乐！——经典，万圣节，学院](https://www.bilibili.com/video/BV1U64y1F7Lt)
-- [【炉石传说】奈法利安大呼强盗！正义骑士竟然如此？（第一次录声音）](https://www.bilibili.com/video/BV1Ab411g7BS)
 <!-- YOUTUBE:END -->
 
 ➡️ [更多视频](https://space.bilibili.com/11475726)
@@ -44,15 +44,13 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [使用jekyll搭建blog有感](https://yanbo01haomiao.github.io/2020/06/05/using-jekyll/)
-- [关于yanbo's blog](https://yanbo01haomiao.github.io/2020/06/05/readme/)
-- [阶段安排与小记](https://yanbo01haomiao.github.io/2020/06/13/after-healing-note/)
-- [记录和工具的使用](https://yanbo01haomiao.github.io/2020/06/29/record-share/)
-- [近阶段计划和记录](https://yanbo01haomiao.github.io/2020/08/04/new-period/)
+- [面试笔试中知识体系构建](https://zhangyuanes.github.io/2021/01/19/kai-keng/coding-interview/)
+- [基于GitHub与PicGo的稳定快速的免费图床](https://zhangyuanes.github.io/2021/01/19/ji-lu/bo-ke-da-jian/tu-chuang-da-jian/)
+- [Hello World to Hexo](https://zhangyuanes.github.io/2020/09/11/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [更多记录](https://yanbo01haomiao.github.io/)
-➡️ [新主题尝试](https://zhangyuanes.github.io/)
+➡️ [如何使用这个静态blog搭建自己的网站？](https://github.com/zhangyuanes/blinkTheme)
+➡️ [旧blog存档](https://yanbo01haomiao.github.io)
 
 ---
 
@@ -64,10 +62,9 @@
   <summary>:zap: 目前在做</summary>
   
 <!--START_SECTION:activity-->
-1. 9月：英语语法和长难句 Done
-2. 数学复习 Delay
-3. MMD渲染 Done
-4. 学习重构代码技巧
+1. 学习重构代码技巧
+2. 刷提准备面试
+3. 知识体系搭建
 <!--END_SECTION:activity-->
 
 </details>
@@ -76,7 +73,7 @@
   <summary>:zap: 目前开坑准备</summary>
   
 <!--START_SECTION:activity-->
-1. 学习优质代码，锻炼框架思维
+1. 阅读优质代码，锻炼框架思维
 2. 把顺手收藏、经常访问的内容做好归类和整理，定期存档
 <!--END_SECTION:activity-->
 
