@@ -33,7 +33,6 @@
 ### 📺 最近视频
 
 <!-- YOUTUBE:START -->
-- [【明日方舟MMD】【棘刺】疑心暗鬼](https://www.bilibili.com/video/BV1Ph411R7L9)
 - [【鬼灭之刃MMD】3倍炼狱杏寿郎的快乐！——经典，万圣节，学院](https://www.bilibili.com/video/BV1U64y1F7Lt)
 <!-- YOUTUBE:END -->
 
