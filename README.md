@@ -2,11 +2,13 @@
 
 ## 软件在读
 
-- 🔭 坐标广州华南理工大学。
-- 🌱 软件工程专业在读。
-- 🥅 2021 目标: offer顺利，毕设顺利
+- 🔭 坐标北京，阿里高德地图，可联系内推。
+- 🌱 华南理工大学软件工程专业毕业。
+- 🥅 2021 目标: offer顺利，毕设顺利 —— 已达成
+-     2022 目标： 顺利毕业，工作landing  - 已达成
+-     2023 目标： 工作能力进阶，全方位培养能力
 - ⚡ 其他: 动画电影爱好者，卡牌游戏爱好者，B站重度用户(ID:烟波01浩淼)
-- 与我联系：zhangyuanes@gmail.com
+- 与我联系：zhangyuanes@gmail.com 或 qq ： 1787948156
 
 <br />
 
@@ -16,11 +18,8 @@
 <img align="left" border-left="15px" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" border-left="15px" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" border-left="15px" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" border-left="15px" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" border-left="15px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" border-left="15px" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" border-left="15px" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" border-left="15px" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" border-left="15px" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" border-left="15px" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" border-left="15px" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
